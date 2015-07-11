@@ -1,7 +1,7 @@
 {
   "name": "tone.js",
   "filename": "Tone.min.js",
-  "version": "r4",
+  "version": "r5",
   "description": "A Web Audio framework for making interactive music in the browser.",
   "homepage": "http://tonejs.org/",
   "keywords": [
